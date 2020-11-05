@@ -1,20 +1,20 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "pant",
-      "price": 5000,
-      "description": "pant description goes here",
-      "ratings": 1,
-      "url": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg"
-    },
-    {
       "id": 2,
       "name": "shirt",
-      "price": 5000,
+      "price": 3000,
       "description": "shirt description goes here",
       "ratings": 1,
       "url": "https://images.pexels.com/photos/4553134/pexels-photo-4553134.jpeg"
+    },
+    {
+      "id": 1,
+      "name": "pant",
+      "price": 2000,
+      "description": "pant description goes here",
+      "ratings": 1,
+      "url": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg"
     },
     {
       "id": 3,
