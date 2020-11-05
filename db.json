@@ -1,7 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "name": "pant", "url":"" },
-    { "id": 2, "name": "shirt", "url":"" },
-    { "id": 3, "name": "shari", "url":"" }
+  "products": [
+    {
+      "id": 1,
+      "name": "pant",
+      "price": 5000,
+      "description": "pant description goes here",
+      "ratings": 1,
+      "url": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "shirt",
+      "price": 5000,
+      "description": "shirt description goes here",
+      "ratings": 1,
+      "url": "https://images.pexels.com/photos/4553134/pexels-photo-4553134.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "shari",
+      "price": 5000,
+      "description": "shari description goes here",
+      "ratings": 1,
+      "url": "https://images.pexels.com/photos/4427641/pexels-photo-4427641.jpeg?"
+    }
   ]
 }
