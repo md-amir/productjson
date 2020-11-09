@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 2,
+      "id": 1,
       "name": "shirt",
       "price": 3000,
       "description": "Some text about the shirt. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.",
@@ -9,7 +9,7 @@
       "url": "https://images.pexels.com/photos/4553134/pexels-photo-4553134.jpeg"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "pant",
       "price": 2000,
       "description": "Some text about the pant. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.",
